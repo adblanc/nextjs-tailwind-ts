@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) boilerplate with [TailwindCSS](https://tailwindcss.com/) and [Typescript](https://www.typescriptlang.org/).
+This is a **[Next.js](https://nextjs.org/)** boilerplate with **[TailwindCSS](https://tailwindcss.com/)** and **[Typescript](https://www.typescriptlang.org/)**.
 
 ## Getting Started
 
@@ -11,6 +11,10 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Live demo
+
+You can view a demo **[here](https://nextjs-tailwind-ts.vercel.app/)**
 
 ## Deploy on Vercel
 
